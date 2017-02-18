@@ -1,5 +1,5 @@
 # shaderfiles
 
-An attempt to load shaders for A-Frame.
+A proposal to load shaders from files for A-Frame.
 
 [Demo](http://curious-electric.com/aframe/shaderfiles/)
